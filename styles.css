@@ -55,6 +55,7 @@ ul li {
     background-color: var(--Grey-700);
     border-radius: 6px;
     font-size: 14px;
+    font-weight: bold;
 }
 
 ul li:not(:last-child) {
